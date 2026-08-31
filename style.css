@@ -2721,3 +2721,60 @@ section {
   }
 
 }
+
+/* ================================================================
+   HERO POSITION FIX
+   ================================================================ */
+
+.video-hero {
+  position: relative !important;
+  display: flex !important;
+
+  width: 100% !important;
+  height: calc(100vh - var(--nav-h)) !important;
+  min-height: 650px !important;
+
+  align-items: center !important;
+  justify-content: center !important;
+
+  overflow: hidden !important;
+
+  padding: 50px 30px !important;
+}
+
+.video-hero-bg {
+  position: absolute !important;
+
+  inset: 0 !important;
+
+  width: 100% !important;
+  height: 100% !important;
+
+  object-fit: cover !important;
+  object-position: center center !important;
+
+  filter: none !important;
+  transform: none !important;
+}
+
+.video-hero-panel {
+  position: relative !important;
+
+  top: auto !important;
+  right: auto !important;
+  bottom: auto !important;
+  left: auto !important;
+
+  z-index: 2 !important;
+
+  width: min(680px, 92vw) !important;
+
+  margin: 0 auto !important;
+  padding: 54px 58px !important;
+
+  transform: none !important;
+
+  background: rgba(253, 250, 246, 0.92) !important;
+
+  text-align: center !important;
+}
