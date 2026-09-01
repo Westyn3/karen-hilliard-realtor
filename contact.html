@@ -7,8 +7,8 @@
   <meta name="description" content="Call, text or message Karen Hilliard, Keller Williams North Atlanta Realtor: luxury, Lake Lanier, mountain & land specialist. 925 North Point Pkwy, Alpharetta." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500;600&display=swap" media="print" onload="this.media='all'" />
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500;600&display=swap" /></noscript>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Karla:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" media="print" onload="this.media='all'" />
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Karla:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" /></noscript>
   <link rel="stylesheet" href="style.css" />
   <link rel="canonical" href="https://northgaluxuryrealtor.com/contact.html" />
   <meta name="robots" content="index, follow" />
@@ -68,7 +68,7 @@
     .contact-hero-photo img { width: 100%; display: block; object-fit: cover; aspect-ratio: 4/5; }
     .contact-hero-photo::before { content: ''; position: absolute; inset: -12px 12px 12px -12px; border: 1px solid var(--gold); z-index: 0; }
     .contact-hero-photo img { position: relative; z-index: 1; }
-    .schedule-band { background: var(--charcoal); padding: 64px 0; text-align: center; }
+    .schedule-band { background: var(--cream-deep); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); padding: 64px 0; text-align: center; }
     @media (max-width: 900px) {
       .contact-page-grid { grid-template-columns: 1fr; gap: 48px; padding: 48px 0; }
       .contact-hero .container { grid-template-columns: 1fr; gap: 40px; padding-top: 48px; padding-bottom: 48px; }
@@ -83,7 +83,14 @@
   <a href="index.html" class="nav-logo">Karen Hilliard<span>North Georgia Luxury Realtor</span></a>
   <ul class="nav-links">
     <li><a href="index.html">Home</a></li>
-    <li><a href="about.html">About</a></li>
+    <li class="nav-dropdown">
+      <a href="about.html">About <span class="caret">▾</span></a>
+      <div class="nav-dropdown-menu">
+        <a href="about.html">About Karen</a>
+        <a href="buying.html">Buying a Home</a>
+        <a href="selling.html">Selling Your Home</a>
+      </div>
+    </li>
     <li class="nav-dropdown">
       <a href="market.html">Markets <span class="caret">▾</span></a>
       <div class="nav-dropdown-menu">
@@ -121,6 +128,10 @@
 <div class="mobile-menu" id="mobile-menu" aria-hidden="true">
   <a href="index.html">Home</a>
   <a href="about.html">About</a>
+  <div class="mobile-submenu">
+    <a href="buying.html">Buying a Home</a>
+    <a href="selling.html">Selling Your Home</a>
+  </div>
   <a href="market.html">Markets</a>
   <div class="mobile-submenu">
     <a href="lake-lanier.html">Lake Lanier</a>
@@ -167,14 +178,11 @@
   <div class="schedule-band" id="reviews">
     <div class="container">
       <p class="section-label" style="text-align:center;">Client Reviews</p>
-      <h2 style="font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,3.5vw,3rem);font-weight:300;color:white;margin-bottom:16px;">5.0 Stars · <em style="font-style:italic;color:var(--gold);">99 Google Reviews</em></h2>
-      <p style="color:rgba(255,255,255,0.6);max-width:520px;margin:0 auto 40px;line-height:1.8;">Every review is from a real client, and Karen replies to every one. Read them on Google, Zillow, or Realtor.com.</p>
-      <!-- TODO: replace with Karen's Elfsight (or similar) Google Reviews widget when set up -->
-      <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
-        <a href="https://www.google.com/search?q=Karen+Hilliard+Realtor+-+Keller+Williams+North+Atlanta" target="_blank" rel="noopener" class="btn-primary" style="font-size:0.88rem;padding:16px 40px;">Read Google Reviews</a>
-        <a href="https://www.zillow.com/profile/Karenhilliard1" target="_blank" rel="noopener" class="btn-outline" style="border-color:var(--gold);color:var(--gold);">Zillow</a>
-        <a href="https://www.realtor.com/realestateagents/5fedf42346d39e00112a7d43" target="_blank" rel="noopener" class="btn-outline" style="border-color:var(--gold);color:var(--gold);">Realtor.com</a>
-      </div>
+      <h2 style="font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,3.5vw,3rem);font-weight:300;color:var(--ink);margin-bottom:16px;">5.0 Stars · <em style="font-style:italic;color:var(--gold);">99 Google Reviews</em></h2>
+      <p style="color:var(--mid);max-width:520px;margin:0 auto 40px;line-height:1.8;">Every review is from a real client, and Karen replies to every one. Read them on Google, Zillow, or Realtor.com.</p>
+      <!-- Elfsight Google Reviews | Karen's Google Reviews -->
+      <script src="https://elfsightcdn.com/platform.js" async></script>
+      <div class="elfsight-app-e931072b-f264-4abd-ad0b-be11f5a7aa60" data-elfsight-app-lazy></div>
     </div>
   </div>
 
@@ -219,7 +227,7 @@
         <div class="contact-form-col">
           <h2>I'd Love to<br><em>Hear From You</em></h2>
           <div id="form-success" class="form-success">Thanks for reaching out! I'll get back to you as soon as possible. 🏡</div>
-          <form class="contact-form" id="contact-form" action="https://formspree.io/f/KAREN_FORMSPREE_TODO" method="POST">
+          <form class="contact-form" id="contact-form" action="https://formspree.io/f/mvkokeva" method="POST">
             <div class="form-row">
               <div class="form-group">
                 <label for="name">Full Name *</label>
@@ -305,7 +313,7 @@
     <div>
       <p class="section-label">Send a Message</p>
       <div id="form-success" class="form-success">Thanks! I'll be in touch soon. 🏡</div>
-      <form class="contact-form" id="contact-form" action="https://formspree.io/f/KAREN_FORMSPREE_TODO" method="POST">
+      <form class="contact-form" id="contact-form" action="https://formspree.io/f/mvkokeva" method="POST">
         <div class="form-row">
           <div class="form-group">
             <label for="name">Your Name *</label>
@@ -322,7 +330,7 @@
         </div>
         <div class="form-group">
           <label for="interest">I'm interested in</label>
-          <select id="interest" name="interest" style="width:100%;padding:14px 16px;border:1px solid var(--border);background:var(--warm-white);font-family:'Jost',sans-serif;font-size:0.9rem;color:var(--charcoal);">
+          <select id="interest" name="interest" style="width:100%;padding:14px 16px;border:1px solid var(--border);background:var(--warm-white);font-family:var(--sans);font-size:0.9rem;color:var(--ink);">
             <option value="Buying a home">Buying a home</option>
             <option value="Selling my home">Selling my home</option>
             <option value="Lake Lanier / waterfront">Lake Lanier / waterfront</option>

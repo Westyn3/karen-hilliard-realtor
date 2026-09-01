@@ -114,6 +114,7 @@ if (form) {
     const match = raw.match(/^([\d.]+)(.*)$/);
     if (!match) return;
     const target = parseFloat(match[1]);
+    const decimals = (match[1].split('.')[1] || '').length;
     const suffix = match[2] || '';
     const duration = 1400;
     const start = performance.now();
@@ -121,7 +122,7 @@ if (form) {
     const tick = (now) => {
       const progress = Math.min((now - start) / duration, 1);
       const eased = 1 - Math.pow(1 - progress, 3); // ease-out
-      el.textContent = Math.round(target * eased) + suffix;
+      el.textContent = (target * eased).toFixed(decimals) + suffix;
       if (progress < 1) requestAnimationFrame(tick);
     };
     requestAnimationFrame(tick);
