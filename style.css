@@ -2505,3 +2505,12 @@ h1,h2,h3,.section-title,.hero-title,.nav-logo,.footer-logo,.intro-stat .number{f
 .footer-bar{background:var(--dark)}
 .fp-links a{border-radius:0}
 @media(max-width:768px){.video-hero{padding:40px 16px}.video-hero-panel{padding:40px 24px}.video-hero .hero-title{font-size:3rem}}
+
+/* ── Brokerage bar ───────────────────────────── */
+.footer-kw-bar { display:flex; align-items:center; gap:18px; padding:22px 0; border-top:1px solid rgba(255,255,255,0.10); }
+.footer-bar .footer-kw-bar img[width][height] { height:40px; width:auto; background:#fff; padding:4px 7px; border-radius:2px; flex-shrink:0; }
+.footer-kw-bar p { font-size:0.74rem; color:rgba(255,255,255,0.55); line-height:1.8; margin:0; letter-spacing:0.02em; }
+.footer-kw-bar strong { color:rgba(255,255,255,0.85); font-weight:500; }
+.footer-kw-bar a { color:rgba(255,255,255,0.75); }
+.footer-kw-bar .kw-sep { margin:0 6px; opacity:0.5; }
+@media (max-width:640px){ .footer-kw-bar{align-items:flex-start} .footer-kw-bar .kw-sep{display:none} .footer-kw-bar p{display:flex;flex-direction:column;gap:2px} }
