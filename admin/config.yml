@@ -3,7 +3,7 @@ backend:
   repo: Westyn3/karen-hilliard-realtor
   branch: main
   # ▼ REPLACE with your deployed Cloudflare Worker URL (see SETUP-BLOG.md)
-  base_url: https://REPLACE-ME.workers.dev
+  base_url: https://karen-blog-auth.whilliard3.workers.dev
 
 site_url: https://northgaluxuryrealtor.com
 display_url: https://northgaluxuryrealtor.com
