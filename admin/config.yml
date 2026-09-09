@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: Westyn3/karen-hilliard-realtor
+  branch: main
+  # ▼ REPLACE with your deployed Cloudflare Worker URL (see SETUP-BLOG.md)
+  base_url: https://REPLACE-ME.workers.dev
+
+site_url: https://northgaluxuryrealtor.com
+display_url: https://northgaluxuryrealtor.com
+logo_url: https://northgaluxuryrealtor.com/icon-192.png
+
+publish_mode: simple
+media_folder: "blog-images"
+public_folder: "/blog-images"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - { label: "Title", name: "title", widget: "string", hint: "Include a city or 'Lake Lanier' when it fits — it helps Google." }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", hint: "Set a future date to schedule. The post goes live the morning after this date (8am ET rebuild)." }
+      - { label: "Area / Topic", name: "city", widget: "select", required: false,
+          options: ["Lake Lanier","Gainesville","Flowery Branch","Buford","Cumming","Milton","Alpharetta","Dawsonville","Dahlonega","Blue Ridge","Luxury","Land & Lots","Market Update"] }
+      - { label: "Short Description", name: "description", widget: "text", hint: "1–2 sentences. Shows on the blog page and in Google results." }
+      - { label: "Header Image (optional)", name: "image", widget: "image", required: false }
+      - { label: "Post", name: "body", widget: "markdown" }

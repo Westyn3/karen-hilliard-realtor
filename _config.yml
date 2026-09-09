@@ -1,0 +1,15 @@
+# Jekyll config — GitHub Pages builds this automatically.
+# All existing .html files (no front matter) are copied through untouched.
+title: "Karen Hilliard — North Georgia Luxury Realtor"
+url: "https://northgaluxuryrealtor.com"
+timezone: America/New_York
+future: false          # posts dated in the future stay hidden until the daily rebuild after their date
+permalink: /blog/:title/
+markdown: kramdown
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
+exclude:
+  - README.md
+  - SETUP-BLOG.md
+  - worker
