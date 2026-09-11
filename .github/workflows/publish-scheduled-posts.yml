@@ -1,13 +1,13 @@
 # Builds and deploys the Jekyll site directly so future-dated posts
-# publish automatically on their scheduled Friday. Also runnable manually.
+# publish automatically on their scheduled date. Also runnable manually.
 name: Publish scheduled posts
 
 on:
   schedule:
-    # GitHub Actions cron uses UTC. Run at both possible 8:05 AM Eastern
+    # GitHub Actions cron uses UTC. Run daily at both possible 8:05 AM Eastern
     # equivalents so daylight saving time is covered.
-    - cron: '5 12 * * 5'
-    - cron: '5 13 * * 5'
+    - cron: '5 12 * * *'
+    - cron: '5 13 * * *'
   workflow_dispatch:
 
 permissions:
