@@ -145,17 +145,15 @@ Whether you're searching for a **downsizing Realtor in North Atlanta, Baby Boome
 **Karen Hilliard Realtor – Keller Williams North Atlanta**
 **The Legacy Team**
 
-📞 Karen Hilliard: 770-316-0788
-📧 [khilliard@kw.com](mailto:khilliard@kw.com)
+Karen Hilliard: 770-316-0788
+[khilliard@kw.com](mailto:khilliard@kw.com)
 
-🌐 [Visit Karen Hilliard's North Georgia Real Estate Website](https://northgaluxuryrealtor.com/index.html)
+[Visit Karen Hilliard's North Georgia Real Estate Website](https://northgaluxuryrealtor.com/index.html)
 
-⭐ [Karen Hilliard Realtor – Keller Williams North Atlanta on Google](https://share.google/88d4b4UTDMrMBlYhu)
+[Karen Hilliard Realtor – Keller Williams North Atlanta on Google](https://share.google/88d4b4UTDMrMBlYhu)
 
-📲 [Follow Karen Hilliard on Instagram](https://www.instagram.com/karen_hilliard/)
+[Follow Karen Hilliard on Instagram](https://www.instagram.com/karen_hilliard/)
 
-🎥 [Watch Our Downsizing & New Construction Journey](https://www.instagram.com/karen_hilliard/reel/DdSXN3LMygw/)
+[Watch Our Downsizing & New Construction Journey](https://www.instagram.com/karen_hilliard/reel/DdSXN3LMygw/)
 
 **Serving North Atlanta and North Georgia, including Alpharetta, Cumming, Milton, Roswell, Johns Creek, Gainesville, Lake Lanier, Buford, Suwanee, Dawsonville, Braselton and surrounding communities.**
-
-**Karen Hilliard Realtor – Keller Williams North Atlanta | North Atlanta Realtor | North Georgia Realtor | Gainesville GA Realtor | Lake Lanier Realtor | Alpharetta Realtor | Cumming GA Realtor | Downsizing Realtor North Atlanta | Baby Boomer Downsizing North Georgia | Empty Nester Realtor | Senior Transition Realtor | Ranch Homes North Georgia | Primary-on-Main Homes | New Construction North Atlanta**
