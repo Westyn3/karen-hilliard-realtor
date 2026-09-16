@@ -7,9 +7,7 @@ description: Thinking about downsizing in North Atlanta or North Georgia? 🏡
   help Baby Boomers, empty nesters and homeowners make the move with confidence.
   From selling your current home to finding the perfect ranch, primary-on-main
   or new construction home, we help coordinate every step of your next chapter.
-image: /blog-images/04417615-8944-4d46-b50e-2dc816bd892d.png
 ---
-# Best Realtor for Downsizing in North Atlanta & North Georgia: Karen Hilliard Realtor – Keller Williams North Atlanta
 
 Are you thinking about **downsizing your home in North Atlanta or North Georgia**?
 
