@@ -18,7 +18,7 @@ collections:
     label: "Blog Posts"
     folder: "_posts"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     sortable_fields: ["date", "title"]
     fields:
       - { label: "Title", name: "title", widget: "string", hint: "Include a city or 'Lake Lanier' when it fits — it helps Google." }
