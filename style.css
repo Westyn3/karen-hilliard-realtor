@@ -2520,3 +2520,7 @@ h1,h2,h3,.section-title,.hero-title,.nav-logo,.footer-logo,.intro-stat .number{f
 .footer-team { margin-top: 18px; max-width: 480px; font-size: .85rem; line-height: 1.6; color: rgba(255, 255, 255, .52); }
 .footer-team a { color: var(--gold-light); text-decoration: none; border-bottom: 1px solid currentColor; transition: color .2s; }
 .footer-team a:hover, .footer-team a:focus-visible { color: #fff; }
+
+/* Side-by-side buttons under the partner bio on the About page */
+.about-links { display: inline-grid; grid-template-columns: 1fr; gap: 12px; }
+.about-links .btn-outline { margin: 0; text-align: center; justify-content: center; }
