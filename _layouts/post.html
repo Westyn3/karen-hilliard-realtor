@@ -24,7 +24,10 @@
   <link rel="icon" href="/favicon.ico" sizes="any" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+  <meta property="article:author" content="Karen Hilliard" />
+  <link rel="alternate" type="application/atom+xml" title="North Georgia Real Estate Blog" href="{{ '/feed.xml' | absolute_url }}" />
   <meta property="og:site_name" content="North Georgia Luxury Realtor — Karen Hilliard" />
   <meta property="og:title" content="{{ page.title | escape }}" />
   <meta property="og:description" content="{{ page.description | escape }}" />
@@ -58,6 +61,14 @@
         "publisher": { "@type": "RealEstateAgent", "name": "Karen Hilliard Realtor - Keller Williams North Atlanta", "url": "{{ '/' | absolute_url }}", "telephone": "+17703160788" },
         "mainEntityOfPage": "{{ page.url | absolute_url }}",
         "isPartOf": { "@type": "Blog", "@id": "{{ '/blog.html' | absolute_url }}", "name": "North Georgia Real Estate Blog" }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ '/' | absolute_url }}" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ '/blog.html' | absolute_url }}" },
+          { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page.url | absolute_url }}" }
+        ]
       }
     ]
   }

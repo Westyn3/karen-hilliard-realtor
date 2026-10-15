@@ -22,6 +22,7 @@ permalink: /blog.html
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Karla:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" media="print" onload="this.media='all'" />
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Karla:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" /></noscript>
   <link rel="stylesheet" href="style.css" />
+  <link rel="alternate" type="application/atom+xml" title="North Georgia Real Estate Blog" href="{{ '/feed.xml' | absolute_url }}" />
   <link rel="canonical" href="https://northgaluxuryrealtor.com/blog.html" />
   <meta name="robots" content="index, follow" />
   <meta name="author" content="Karen Hilliard" />
@@ -49,6 +50,9 @@ permalink: /blog.html
   {
     "@context": "https://schema.org",
     "@graph": [
+      { "@type": "BreadcrumbList", "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ '/' | absolute_url }}" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ '/blog.html' | absolute_url }}" } ] },
       { "@type": "Blog", "@id": "{{ '/blog.html' | absolute_url }}", "name": "North Georgia Real Estate Blog", "url": "{{ '/blog.html' | absolute_url }}",
         "author": { "@type": "Person", "name": "Karen Hilliard" } },
       { "@type": "ItemList", "itemListElement": [

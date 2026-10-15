@@ -1,0 +1,22 @@
+---
+layout: null
+permalink: /feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North Georgia Real Estate Blog — Karen Hilliard</title>
+  <subtitle>Lake Lanier, luxury, mountains, and land — practical answers from a Realtor who lives on the lake.</subtitle>
+  <link href="{{ '/feed.xml' | absolute_url }}" rel="self" />
+  <link href="{{ '/blog.html' | absolute_url }}" />
+  <id>{{ '/' | absolute_url }}</id>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author><name>Karen Hilliard</name></author>
+{% for post in site.posts %}  <entry>
+    <title>{{ post.title | xml_escape }}</title>
+    <link href="{{ post.url | absolute_url }}" />
+    <id>{{ post.url | absolute_url }}</id>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
+    <summary>{{ post.description | xml_escape }}</summary>
+  </entry>
+{% endfor %}</feed>
