@@ -13,7 +13,7 @@ Type "top real estate agent Alpharetta" into Google and you'll get ads, paid ran
 
 **"Will I work with you, or a team member I haven't met?"** Big teams hand you off. On The Legacy Team it's me and my daughter Britney — two Realtors, and you get both of us, every time.
 
-**"Can I see your reviews — all of them?"** Don't take a website's word for it (including mine). Read the Google reviews directly. I hold a 5.0 across 99 of them, and I reply to every one, because that record *is* the interview.
+**"Can I see your reviews — all of them?"** Don't take a website's word for it (including mine). Read the Google reviews directly. I hold a 5.0 across 104 of them, and I reply to every one, because that record *is* the interview.
 
 **"What will you tell me that I don't want to hear?"** This one matters most. An agent who only agrees with you is a liability in a negotiation. Ask for an example of talking a client *out* of something.
 
