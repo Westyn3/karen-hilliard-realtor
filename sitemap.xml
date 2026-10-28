@@ -26,6 +26,26 @@ layout: null
   <url><loc>https://northgaluxuryrealtor.com/marina-bay-lake-lanier.html</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://northgaluxuryrealtor.com/cumberland-on-lanier.html</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://northgaluxuryrealtor.com/st-michaels-bay-lake-lanier.html</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url>
+    <loc>https://northgaluxuryrealtor.com/sell-lake-lanier-home.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://northgaluxuryrealtor.com/reserve-club-lake-lanier.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://northgaluxuryrealtor.com/chattahoochee-country-club-lake-lanier.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://northgaluxuryrealtor.com/sidney-on-lanier.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.7</priority>
+  </url>
   <url><loc>https://northgaluxuryrealtor.com/chestatee-lake-lanier.html</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>{{ '/blog.html' | absolute_url }}</loc><lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 {% for post in site.posts %}  <url><loc>{{ post.url | absolute_url }}</loc><lastmod>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
