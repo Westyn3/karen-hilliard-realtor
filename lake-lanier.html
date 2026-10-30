@@ -337,9 +337,46 @@
           <label for="message">How can I help?</label>
           <textarea id="message" name="message" placeholder="I'm interested in Lake Lanier..."></textarea>
         </div>
+        <div class="form-group">
+          <label for="heard_about">How did you hear about Karen?</label>
+          <select id="heard_about" name="heard_about" style="width:100%;padding:14px 16px;border:1px solid var(--border);background:var(--warm-white);font-family:var(--sans);font-size:0.9rem;color:var(--ink);">
+            <option value="">Select one (optional)</option>
+            <option value="Google Search">Google Search</option>
+            <option value="Google Maps / Business Profile">Google Maps / Business Profile</option>
+            <option value="Referral from a friend">Referral from a friend</option>
+            <option value="Social media">Social media</option>
+            <option value="Sign or flyer">Sign or flyer</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+        <input type="hidden" name="lead_referrer" value="" />
+        <input type="hidden" name="lead_landing_page" value="" />
+        <input type="hidden" name="lead_submitted_from" value="" />
+        <input type="hidden" name="lead_utm_source" value="" />
         <input type="hidden" name="_subject" value="New lead from northgaluxuryrealtor.com" />
         <button type="submit" class="btn-primary">Send Message</button>
       </form>
+<script>
+(function(){
+  try{
+    var ss = window.sessionStorage;
+    var qs = new URLSearchParams(location.search);
+    if(!ss.getItem('lead_landing')){
+      ss.setItem('lead_landing', location.pathname + location.search);
+      ss.setItem('lead_ref', document.referrer || 'direct');
+      ss.setItem('lead_src', qs.get('utm_source') || '');
+    }
+    var f = document.getElementById('contact-form');
+    if(f){
+      var set = function(n,v){ var i=f.querySelector('input[name="'+n+'"]'); if(i) i.value=v; };
+      set('lead_referrer', ss.getItem('lead_ref') || document.referrer || 'direct');
+      set('lead_landing_page', ss.getItem('lead_landing') || location.pathname);
+      set('lead_submitted_from', location.pathname);
+      set('lead_utm_source', ss.getItem('lead_src') || qs.get('utm_source') || '');
+    }
+  }catch(e){}
+})();
+</script>
     </div>
   </div>
 </div>
