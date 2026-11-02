@@ -459,6 +459,15 @@
       set('lead_submitted_from', location.pathname);
       set('lead_utm_source', ss.getItem('lead_src') || qs.get('utm_source') || '');
     }
+    document.addEventListener('click', function(ev){
+      var a = ev.target && ev.target.closest ? ev.target.closest('a[href^="tel:"],a[href^="sms:"]') : null;
+      if(a && typeof gtag === 'function'){
+        gtag('event', a.href.indexOf('tel:') === 0 ? 'phone_call_click' : 'text_click', {
+          link_url: a.href,
+          page_path: location.pathname
+        });
+      }
+    }, true);
   }catch(e){}
 })();
 </script>
