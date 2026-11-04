@@ -1,8 +1,9 @@
 ---
 title: "Before You Buy on Lake Lanier: Dock Permits, Water Depth & Corps Rules"
+seo_title: "Lake Lanier Dock Permits, Water Depth & Corps Rules"
 date: 2026-08-15 08:00:00 -0400
 city: "Lake Lanier"
-description: "The single most expensive mistake lake buyers make is assuming every lakefront lot comes with a dock. What to verify about dock permits, water depth, and Corps of Engineers rules before you offer."
+description: "The costliest mistake lake buyers make is assuming every lakefront lot comes with a dock. What to verify on dock permits, water depth and Corps rules first."
 ---
 
 The single most expensive mistake I see lake buyers make is assuming every lakefront lot comes with a dock. It doesn't. On Lake Lanier, the shoreline is managed by the U.S. Army Corps of Engineers, and dock permits are tied to the property — not to the seller, and not to you. Some lots are permitted, some are grandfathered under older rules, and some will never be dock-eligible because of shoreline classification or water depth.

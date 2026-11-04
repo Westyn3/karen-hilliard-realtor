@@ -1270,7 +1270,7 @@ section {
   background: var(--cream);
 }
 
-.value-card h4 {
+.value-card h4, .value-card h3 {
   margin-bottom: 9px;
 
   color: var(--ink);
@@ -1410,7 +1410,7 @@ section {
   text-align: center;
 }
 
-.vendor-card h4 {
+.vendor-card h4, .vendor-card h3 {
   margin-bottom: 7px;
 
   color: var(--ink);
@@ -2524,3 +2524,10 @@ h1,h2,h3,.section-title,.hero-title,.nav-logo,.footer-logo,.intro-stat .number{f
 /* Side-by-side buttons under the partner bio on the About page */
 .about-links { display: inline-grid; grid-template-columns: 1fr; gap: 12px; }
 .about-links .btn-outline { margin: 0; text-align: center; justify-content: center; }
+
+/* Card headings were changed h4 -> h3 for correct heading order (SEO).
+   Low-specificity reset keeps them looking exactly like the old h4s. */
+:where(.value-card, .vendor-card, .why-card, .marketing-item) h3 {
+  font-family: inherit; font-size: 1em; font-weight: bold; letter-spacing: normal;
+  line-height: inherit;
+}

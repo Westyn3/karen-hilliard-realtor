@@ -2,7 +2,7 @@
 title: "Is Now the Right Time to Buy or Sell in North Georgia?"
 date: 2026-10-09 08:00:00 -0400
 city: "Market Update"
-description: "The honest answer to North Georgia's most-asked real estate question: it depends on your situation more than the headlines. How I help buyers and sellers decide their timing."
+description: "The honest answer to North Georgia's most-asked real estate question: your timing depends on your situation more than the headlines. Here's how to decide."
 ---
 
 It's the question I'm asked more than any other — at closings, at the lake, in my inbox: "Is now a good time to buy or sell?" Here's the honest answer: the national headlines matter far less than your situation and your specific market. North Georgia isn't one market — it's a dozen.

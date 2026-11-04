@@ -1,8 +1,9 @@
 ---
 title: "Selling Your Lake Lanier Home: What Waterfront Sellers Should Do First"
+seo_title: "Selling Your Lake Lanier Home: What to Do First"
 date: 2026-09-25 08:00:00 -0400
 city: "Lake Lanier"
-description: "Lake homes aren't sold like neighborhood homes. Dock paperwork, water depth, seasonal timing, and photography that shows the water — what Lanier sellers should handle before listing."
+description: "Lake homes don't sell like neighborhood homes. Dock paperwork, water depth, timing and photos that show the water: what Lanier sellers should handle first."
 ---
 
 Selling a Lake Lanier home is a different job than selling a house in a subdivision — because the buyer isn't just buying your house. They're buying your dock, your cove, your water depth, and your slice of the shoreline. Here's what I have waterfront sellers handle before we ever list.

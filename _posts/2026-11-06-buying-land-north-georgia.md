@@ -1,8 +1,9 @@
 ---
 title: "Buying Land in North Georgia: 5 Questions Before You Make an Offer"
+seo_title: "Buying Land in North Georgia: 5 Questions Before You Offer"
 date: 2026-11-06 08:00:00 -0500
 city: "Land & Lots"
-description: "Two neighboring lots can look identical and be worth wildly different amounts. Perc tests, wells, topography, access, and dock rights — the five questions that decide what land is worth."
+description: "Two neighboring lots can look identical and be worth wildly different amounts. Perc tests, wells, topography, access and dock rights decide what land is worth."
 ---
 
 Land is the purchase where a good agent saves you the most money — because unlike a finished house, a lot's value depends entirely on what it can *support*. I've seen neighboring parcels in Dawson County that looked identical from the road and were six figures apart in real value. Before you offer on any land in North Georgia, get answers to these five questions.

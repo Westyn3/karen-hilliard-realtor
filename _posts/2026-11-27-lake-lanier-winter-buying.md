@@ -2,7 +2,7 @@
 title: "Why Smart Buyers Shop Lake Lanier in the Winter"
 date: 2026-11-27 08:00:00 -0500
 city: "Lake Lanier"
-description: "Winter is when Lake Lanier shows you the truth — lower water, bare trees, honest sightlines. Why the off-season is the best due-diligence window a lake buyer gets."
+description: "Winter is when Lake Lanier tells the truth: lower water, bare trees, honest sightlines. Why the off-season is the best due-diligence window for lake buyers."
 ---
 
 Everyone shops Lake Lanier in May, when the water's up, the trees are full, and every cove looks like a postcard. Smart buyers shop it now — because winter is when the lake tells you the truth.

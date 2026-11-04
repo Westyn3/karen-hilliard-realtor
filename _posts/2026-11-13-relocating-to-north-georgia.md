@@ -1,8 +1,9 @@
 ---
 title: "Relocating to North Georgia: How Out-of-State Buyers Do It Right"
+seo_title: "Relocating to North Georgia From Out of State"
 date: 2026-11-13 08:00:00 -0500
 city: "Relocation"
-description: "Many of my buyers purchase from several states away. How remote relocation actually works — video tours, area strategy, and choosing between North Fulton, Forsyth, the lake, and the mountains."
+description: "Many of my buyers purchase from several states away. How remote relocation works: video tours, area strategy, and choosing North Fulton, Forsyth or the lake."
 ---
 
 A growing share of my buyers don't live in Georgia yet. They're relocating for work, family, or a lake-and-mountains lifestyle they've been planning for years — and most of them buy their North Georgia home having visited only once or twice. Here's how that actually works.

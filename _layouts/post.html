@@ -11,7 +11,10 @@
     gtag('js', new Date());
     gtag('config', 'G-7FFSS03SR8');
   </script>
-  <title>{{ page.title }} | Karen Hilliard, North Georgia Realtor</title>
+  {%- assign seo_t = page.seo_title | default: page.title -%}
+  {%- assign t_full = seo_t | append: " | Karen Hilliard, North Georgia Realtor" -%}
+  {%- assign t_short = seo_t | append: " | Karen Hilliard" -%}
+  <title>{% if t_full.size <= 60 %}{{ t_full | escape }}{% elsif t_short.size <= 60 %}{{ t_short | escape }}{% else %}{{ seo_t | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.description | escape }}" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
