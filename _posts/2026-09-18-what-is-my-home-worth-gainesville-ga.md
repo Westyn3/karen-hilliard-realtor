@@ -2,7 +2,7 @@
 title: "What Is My Home Worth in Gainesville, GA?"
 date: 2026-09-18 08:00:00 -0400
 city: "Gainesville"
-description: "Online estimates miss what actually drives value in Gainesville and on Lake Lanier — the cove, the dock, the school line, the street. Here's how I build a real number for Hall County sellers."
+description: "Online estimates miss what drives value in Gainesville and on Lake Lanier: the cove, the dock, the school line, the street. How I price Hall County homes."
 ---
 
 "What's my house worth?" is the question I hear most from Gainesville homeowners — and the online estimate is usually the least reliable answer in Hall County.

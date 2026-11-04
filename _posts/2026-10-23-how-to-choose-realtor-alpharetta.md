@@ -1,8 +1,9 @@
 ---
 title: "How to Choose a Realtor in Alpharetta (Questions Worth Asking)"
+seo_title: "How to Choose a Realtor in Alpharetta: Questions to Ask"
 date: 2026-10-23 08:00:00 -0400
 city: "Alpharetta"
-description: "Searching 'top real estate agent Alpharetta' returns a wall of ads and rankings. Here's a better filter: the questions that actually reveal whether an agent fits your move."
+description: "Searching 'top real estate agent Alpharetta' returns a wall of ads. A better filter: the questions that reveal whether an agent actually fits your move."
 ---
 
 Type "top real estate agent Alpharetta" into Google and you'll get ads, paid rankings, and a hundred smiling headshots. None of it tells you who's right for *your* move. After years in this market, here are the questions I'd ask any agent — including me — before signing anything.

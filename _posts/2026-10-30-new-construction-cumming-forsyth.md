@@ -1,8 +1,9 @@
 ---
 title: "Buying New Construction in Cumming: Read the Contract Before You Fall in Love"
+seo_title: "Buying New Construction in Cumming: Read the Contract First"
 date: 2026-10-30 08:00:00 -0400
 city: "Cumming"
-description: "Forsyth County is one of Georgia's best new-construction markets — and builder contracts are written by the builder. What I check on every new build, from the agreement to the final walk."
+description: "Forsyth County is a top new-construction market, and builder contracts are written by the builder. What I check on every new build, contract to final walk."
 ---
 
 [Cumming and Forsyth County](/cumming.html) offer some of the best new-construction shopping in Georgia — nationally ranked schools, modern floor plans, master-planned amenities. But here's what every new-construction buyer needs to hear before touring a model home: **the builder's contract was written by the builder's attorneys, for the builder.** The sales agent in the model home works for the builder too. You're the only one at the table without representation — unless you bring it.
