@@ -139,3 +139,27 @@ if (form) {
 
   numbers.forEach((n) => io.observe(n));
 })();
+
+// GA4 lead tracking (same event names as Britney's and Knoxline's sites).
+// email_click: tap on a mailto: link. generate_lead: contact form submitted to Formspree.
+(() => {
+  const track = (name, params) => {
+    if (typeof gtag === 'function') gtag('event', name, params);
+  };
+
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest && e.target.closest('a');
+    if (!a) return;
+    const href = a.getAttribute('href') || '';
+    // Phone and text taps are already tracked by the inline script on each page.
+    if (href.startsWith('mailto:')) {
+      track('email_click', { page_path: location.pathname });
+    }
+  });
+
+  document.addEventListener('submit', (e) => {
+    const f = e.target;
+    if (!f || !f.action || f.action.indexOf('formspree.io') === -1) return;
+    track('generate_lead', { page_path: location.pathname });
+  });
+})();
