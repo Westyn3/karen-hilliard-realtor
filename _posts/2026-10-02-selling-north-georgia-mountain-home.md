@@ -1,9 +1,9 @@
 ---
 title: "Selling a North Georgia Mountain Home: What Cabin Owners Should Know"
-seo_title: "Selling a North Georgia Mountain Home or Cabin"
+seo_title: "Sell Your North Georgia Mountain Home or Cabin"
 date: 2026-10-02 08:00:00 -0400
 city: "Blue Ridge"
-description: "Blue Ridge, Ellijay and Dahlonega cabins sell to a specific buyer, often out-of-state and weighing rental income. How to position a mountain home to sell."
+description: "Selling a cabin in Blue Ridge, Ellijay or Dahlonega? Your buyer is likely out of state. How to photograph, prep and position a North Georgia mountain home."
 ---
 
 If you own a cabin or mountain home in Blue Ridge, Ellijay, Dahlonega, or Dawsonville and you're thinking about selling, the most important thing to understand is this: your buyer probably doesn't live here. Mountain properties in North Georgia sell heavily to Atlanta families and out-of-state buyers shopping online — which changes how your home needs to be presented.
