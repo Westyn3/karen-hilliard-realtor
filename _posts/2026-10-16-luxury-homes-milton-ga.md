@@ -6,7 +6,7 @@ city: "Milton"
 description: "Milton luxury homes start near $1.5M and run past $4M. What you're paying for: The Manor, White Columns, equestrian acreage and top schools. A local guide."
 ---
 
-Search "luxury homes for sale in Milton GA" and you'll see the price tags — true Milton estates generally start around $1.5M and run well past $4M. What the listings don't explain is *why*, and what you're actually buying at that number.
+Search "luxury homes for sale in Milton GA" and you'll see the price tags — true Milton estates generally start around $1.5M and run well past $4M. What the listings don't explain is *why*, and what you're actually buying at that number. For current listings and neighborhoods, see my [Milton GA luxury homes for sale](/milton.html) page.
 
 **You're buying land that can't be subdivided away.** Milton was incorporated to protect its rural, equestrian character, and its large-lot zoning is the backbone of the market. When you buy acreage in Milton, the horse farm next door stays a horse farm. That protection is why Milton estates hold value the way they do — scarcity is written into the city code.
 
@@ -16,4 +16,4 @@ Search "luxury homes for sale in Milton GA" and you'll see the price tags — tr
 
 **What the due diligence looks like at this level.** Estates come with wells and septic sized for the home, pools, outbuildings, barns, and systems a standard inspection may not fully cover. My construction management background is exactly for this — I evaluate the property like a builder before my clients commit, and I market listings with the photography, video, and discretion this price point demands.
 
-Curious what your budget really buys in [Milton](/milton.html) — or what your estate would command today? Call or text (770) 316-0788, or [start the conversation here](/luxury-homes.html).
+Curious what your budget really buys among [Milton GA luxury homes for sale](/milton.html) — or what your estate would command today? Call or text (770) 316-0788, or [start the conversation here](/luxury-homes.html).
