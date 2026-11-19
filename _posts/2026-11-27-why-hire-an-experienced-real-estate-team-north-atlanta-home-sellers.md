@@ -1,7 +1,7 @@
 ---
 title: Why Hire an Experienced Real Estate Team? | North Atlanta Home Sellers
 date: 2026-11-27 11:40:00 -0500
-city: Lake Lanier
+city: Luxury
 description: Selling your home in North Atlanta or Gainesville GA? Discover how
   Karen Hilliard and The Legacy Team at Keller Williams North Atlanta help
   sellers with pricing, marketing, negotiations, and a smoother sale.
