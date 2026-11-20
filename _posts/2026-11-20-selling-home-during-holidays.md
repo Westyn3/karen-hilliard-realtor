@@ -1,6 +1,6 @@
 ---
 title: "Should You Sell Your North Georgia Home During the Holidays?"
-date: 2026-11-20 08:00:00 -0500
+date: 2026-11-20 07:00:00 -0500
 city: "Selling"
 description: "Conventional wisdom says wait until spring. Sometimes that's right — and sometimes the holidays are quietly the smartest window a seller gets. How to decide."
 ---
