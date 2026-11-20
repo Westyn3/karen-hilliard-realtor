@@ -1,6 +1,6 @@
 ---
 title: Inherited a Home in North Georgia? Sell Fast or List on MLS
-date: 2026-11-20 12:00:00 -0500
+date: 2026-11-20 07:00:00 -0500
 description: Inherited a home in Gainesville or North Atlanta? Karen Hilliard
   and The Legacy Team help families sell inherited properties as-is to investors
   or through professional MLS marketing.
