@@ -1,7 +1,7 @@
 ---
 title: "Selling a Luxury Lake Lanier Home: Pricing, Marketing and Timing"
 seo_title: "Selling a Luxury Lake Lanier Home"
-date: 2027-02-19 08:00:00 -0500
+date: 2027-02-19 06:00:00 -0500
 city: "Lake Lanier"
 description: "How to sell a high-end Lake Lanier home: pricing around the dock and cove, drone and video marketing, discreet options and choosing the right window."
 ---

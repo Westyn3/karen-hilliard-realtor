@@ -1,7 +1,7 @@
 ---
 title: "Your Lake Lanier Realtor: What a Lake Specialist Does Differently"
 seo_title: "Your Lake Lanier Realtor: What a Specialist Does"
-date: 2026-12-11 08:00:00 -0500
+date: 2026-12-11 06:00:00 -0500
 city: "Lake Lanier"
 description: "A Lake Lanier realtor isn't just an agent who sells houses near water. Docks, Corps rules, water depth and lake knowledge your agent should bring."
 ---

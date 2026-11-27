@@ -1,7 +1,7 @@
 ---
 title: "Winter Pool vs. Summer Pool: What the Lake Level Means for Buyers"
 seo_title: "Lake Lanier Winter Pool vs Summer Pool Explained"
-date: 2026-12-18 08:00:00 -0500
+date: 2026-12-18 06:00:00 -0500
 city: "Lake Lanier"
 description: "Lanier's full pool changes by season: 1,070 feet in winter and 1,071 in summer. What that means for docks, depth and when you shop."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Why Lake Health Matters When You Buy on Lake Lanier"
 seo_title: "Why Lake Health Matters for Lanier Homes"
-date: 2027-02-05 08:00:00 -0500
+date: 2027-02-05 06:00:00 -0500
 city: "Lake Lanier"
 description: "Clean water, stable shorelines and a full lake are what make a lake home worth owning. How the work done on Lanier connects to the home you buy."
 ---

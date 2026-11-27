@@ -1,7 +1,7 @@
 ---
 title: "Boating Season Is Coming: Lake Lanier Safety Tips and Resources"
 seo_title: "Lake Lanier Boating Safety Tips and Resources"
-date: 2027-03-12 08:00:00 -0500
+date: 2027-03-12 06:00:00 -0500
 city: "Lake Lanier"
 description: "Lake Lanier sees millions of visitors a year. Safety tips for the season ahead and the life jacket loaner stations and hazard-marker lights run by the LLA."
 ---

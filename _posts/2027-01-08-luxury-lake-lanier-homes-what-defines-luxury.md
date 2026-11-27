@@ -1,7 +1,7 @@
 ---
 title: "Luxury Lake Lanier Homes: What Really Defines a Luxury Lakefront"
 seo_title: "Luxury Lake Lanier Homes: What Defines Luxury"
-date: 2027-01-08 08:00:00 -0500
+date: 2027-01-08 06:00:00 -0500
 city: "Lake Lanier"
 description: "Luxury on Lake Lanier isn't just square footage. Water depth, dock quality, privacy, community amenities and the details that define a true luxury lakefront."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Clean, Full, Safe: Why I'm a Lake Lanier Association Member"
 seo_title: "Lake Lanier Association Member Realtor | Karen Hilliard"
-date: 2026-12-04 08:00:00 -0500
+date: 2026-12-04 06:00:00 -0500
 city: "Lake Lanier"
 description: "I joined the Lake Lanier Association because the lake is what my clients are buying. What the LLA does, and why a Lanier realtor should be part of it."
 ---

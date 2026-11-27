@@ -1,7 +1,7 @@
 ---
 title: "Buying a Lake Lanier Home, Start to Finish: How I Work With Buyers"
 seo_title: "Buying a Lake Lanier Home: Start to Finish"
-date: 2027-03-26 08:00:00 -0400
+date: 2027-03-26 06:00:00 -0400
 city: "Lake Lanier"
 description: "From first call to dock keys: how buying a Lake Lanier home works with a lake specialist, including search, due diligence, offer, inspections and closing."
 ---
