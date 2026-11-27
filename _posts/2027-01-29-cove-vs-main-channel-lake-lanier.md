@@ -1,7 +1,7 @@
 ---
 title: "Cove vs. Main Channel: Choosing Your Spot on Lake Lanier"
 seo_title: "Cove vs Main Channel on Lake Lanier"
-date: 2027-01-29 08:00:00 -0500
+date: 2027-01-29 06:00:00 -0500
 city: "Lake Lanier"
 description: "Where on the lake you buy matters as much as the house. Protected cove or open main channel? How each affects wakes, depth, views and daily lake life."
 ---

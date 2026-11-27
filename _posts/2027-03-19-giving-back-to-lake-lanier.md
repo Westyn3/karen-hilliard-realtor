@@ -1,7 +1,7 @@
 ---
 title: "Giving Back to Lake Lanier: How to Get Involved"
 seo_title: "How to Get Involved and Give Back to Lake Lanier"
-date: 2027-03-19 08:00:00 -0400
+date: 2027-03-19 06:00:00 -0400
 city: "Lake Lanier"
 description: "From Shore Sweep to water testing, there are many ways to help protect Lake Lanier. How lake owners, buyers and neighbors can get involved."
 ---

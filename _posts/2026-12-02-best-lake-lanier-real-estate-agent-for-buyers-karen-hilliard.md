@@ -1,6 +1,6 @@
 ---
 title: Best Lake Lanier Real Estate Agent for Buyers | Karen Hilliard
-date: 2026-12-02 11:31:00 -0500
+date: 2026-12-02 06:00:00 -0500
 city: Lake Lanier
 description: Buying a Lake Lanier home? Discover why Karen Hilliard and The
   Legacy Team are trusted local experts for waterfront homes, luxury properties,

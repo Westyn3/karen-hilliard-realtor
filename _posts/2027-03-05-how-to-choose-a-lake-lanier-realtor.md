@@ -1,7 +1,7 @@
 ---
 title: "How to Choose a Luxury Lake Lanier Realtor: 8 Questions to Ask"
 seo_title: "How to Choose a Luxury Lake Lanier Realtor"
-date: 2027-03-05 08:00:00 -0500
+date: 2027-03-05 06:00:00 -0500
 city: "Lake Lanier"
 description: "Hiring an agent for a luxury lake purchase or sale? Eight questions that show whether a Lake Lanier realtor really knows the water, the docks and the communities."
 ---

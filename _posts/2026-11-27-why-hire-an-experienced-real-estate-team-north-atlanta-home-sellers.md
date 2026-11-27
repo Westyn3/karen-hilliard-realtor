@@ -1,6 +1,6 @@
 ---
 title: Why Hire an Experienced Real Estate Team? | North Atlanta Home Sellers
-date: 2026-11-27 11:40:00 -0500
+date: 2026-11-27 06:00:00 -0500
 city: Luxury
 description: Selling your home in North Atlanta or Gainesville GA? Discover how
   Karen Hilliard and The Legacy Team at Keller Williams North Atlanta help

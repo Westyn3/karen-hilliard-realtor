@@ -1,7 +1,7 @@
 ---
 title: "Luxury Lake Lanier Communities Compared: Which One Fits Your Life?"
 seo_title: "Luxury Lake Lanier Communities Compared"
-date: 2027-01-22 08:00:00 -0500
+date: 2027-01-22 06:00:00 -0500
 city: "Lake Lanier"
 description: "Marina Bay, Harbour Point, St. Michael's Bay, The Reserve Club, Chattahoochee CC and more. How Lake Lanier's luxury communities differ and who each suits."
 ---

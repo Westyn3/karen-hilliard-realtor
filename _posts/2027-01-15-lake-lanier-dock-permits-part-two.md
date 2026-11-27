@@ -1,7 +1,7 @@
 ---
 title: "Lake Lanier Dock Permits, Part Two: The Questions to Ask Before You Offer"
 seo_title: "Lake Lanier Dock Permits: Questions to Ask"
-date: 2027-01-15 08:00:00 -0500
+date: 2027-01-15 06:00:00 -0500
 city: "Lake Lanier"
 description: "A deeper look at Lake Lanier dock permits: what to request, what a permit can and can't tell you, and how to protect yourself before you make an offer."
 ---

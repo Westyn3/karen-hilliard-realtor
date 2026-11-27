@@ -1,7 +1,7 @@
 ---
 title: "Getting Ready for Spring on Lake Lanier: A Buyer's Checklist"
 seo_title: "Lake Lanier Spring Buyer's Checklist"
-date: 2027-02-26 08:00:00 -0500
+date: 2027-02-26 06:00:00 -0500
 city: "Lake Lanier"
 description: "Spring is when Lake Lanier wakes up and buyers rush in. A checklist to get pre-approved, shortlist communities and be ready before the competition."
 ---

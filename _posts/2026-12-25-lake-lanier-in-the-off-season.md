@@ -1,7 +1,7 @@
 ---
 title: "Living on Lake Lanier in the Off-Season: What It's Really Like"
 seo_title: "Living on Lake Lanier in the Off-Season"
-date: 2026-12-25 08:00:00 -0500
+date: 2026-12-25 06:00:00 -0500
 city: "Lake Lanier"
 description: "Quiet coves, empty docks and a different kind of lake life. What winter on Lanier is like for homeowners, and why many owners say it's their favorite season."
 ---

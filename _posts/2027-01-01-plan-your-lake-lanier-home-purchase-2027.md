@@ -1,7 +1,7 @@
 ---
 title: "New Year, New Lake Home: A 2027 Plan for Buying on Lake Lanier"
 seo_title: "Plan Your 2027 Lake Lanier Home Purchase"
-date: 2027-01-01 08:00:00 -0500
+date: 2027-01-01 06:00:00 -0500
 city: "Lake Lanier"
 description: "Want to be on the water by summer? A simple month-by-month plan for buying a Lake Lanier home in 2027, from financing to dock permits."
 ---
